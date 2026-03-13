@@ -2,7 +2,7 @@
 title: "How to Make Intimacy Better: What Happy Couples Know"
 meta_title: "Better Intimacy: Communication Tips for a Healthy Sex Life | The Dating Decoder"
 description: "Great sex isn't just about technique. It's about trust, communication, and knowing what your partner needs. Here's how to build a deeper connection in the bedroom."
-date: 2025-08-25T10:50:01Z
+date: 2025-08-25T10:55:01Z
 image: "/images/posts/vitaly-gariev-6LnN_aj8jig-unsplash.jpg"
 categories: ["The Spark"]
 authors: ["Jadwiga Ostrowska"]
