@@ -5,12 +5,12 @@
       "url": "/"
     },
     {
-      "name": "About",
-      "url": "/about"
+      "name": "Categories",
+      "url": "/categories"
     },
     {
-      "name": "Contact",
-      "url": "/contact"
+      "name": "Tags",
+      "url": "/tags"
     },
     {
       "name": "Pages",
@@ -18,24 +18,24 @@
       "hasChildren": true,
       "children": [
         {
-          "name": "Authors",
-          "url": "/authors"
+          "name": "About",
+          "url": "/about"
         },
         {
-          "name": "Categories",
-          "url": "/categories"
+          "name": "Contact",
+          "url": "/contact"
         },
         {
-          "name": "Tags",
-          "url": "/tags"
-        },
-        {
-          "name": "Elements",
-          "url": "/elements"
+          "name": "Terms of Service",
+          "url": "/terms-of-service"
         },
         {
           "name": "Privacy Policy",
           "url": "/privacy-policy"
+        },
+        {
+          "name": "DMCA",
+          "url": "/dmca"
         }
       ]
     }
@@ -50,12 +50,16 @@
       "url": "/contact"
     },
     {
-      "name": "Elements",
-      "url": "/elements"
+      "name": "Terms of Service",
+      "url": "/terms-of-service"
     },
     {
       "name": "Privacy Policy",
       "url": "/privacy-policy"
+    },
+    {
+      "name": "DMCA",
+      "url": "/dmca"
     }
   ]
 }
