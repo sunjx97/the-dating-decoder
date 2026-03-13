@@ -1,6 +1,6 @@
 {
   "site": {
-    "title": "Bookworm Light Astro | Blog Template",
+    "title": "The Dating Decoder – Your Relationship Companion",
     "base_url": "https://bookworm-light-astro.vercel.app",
     "base_path": "/",
     "trailing_slash": false,
@@ -28,12 +28,12 @@
 
   "params": {
     "contact_form_action": "#",
-    "copyright": "Copyright © 2025 a theme by [Themefisher](https://themefisher.com)"
+    "copyright": "Copyright © 2026 [The Dating Decoder]() – Your Relationship Companion"
   },
 
   "contactinfo": {
-    "address": "355 S Grand Ave <br/> Los Angeles, CA 90071",
+    "address": "3381 N Church Street New Arturoview <br/> Warmińsko-Mazurskie, Poland",
     "email": "info@bookworm.org",
-    "phone": "+800 567 1234"
+    "phone": "+48 612 278 763"
   }
 }
