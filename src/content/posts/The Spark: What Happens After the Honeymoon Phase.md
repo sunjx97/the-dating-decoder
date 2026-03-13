@@ -2,7 +2,7 @@
 title: "The Spark: What Happens After the Honeymoon Phase"
 meta_title: "The Spark: Keeping Love Alive After the Honeymoon | The Dating Decoder"
 description: "The butterflies don't last forever—and that's okay. Here's how real couples keep the fire burning long after the first flames fade."
-date: 2026-03-01T15:30:560Z
+date: 2026-03-01T15:30:56Z
 image: "/images/posts/mindy-sabiston-9hgDf95TNO8-unsplash.jpg"
 categories: ["The Spark"]
 authors: ["Jadwiga Ostrowska"]
