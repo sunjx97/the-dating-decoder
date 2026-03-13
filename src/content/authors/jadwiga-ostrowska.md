@@ -1,7 +1,7 @@
 ---
 title: Jadwiga Ostrowska
 meta_title: ""
-image: /images/authors/jadwiga-ostrowska.jpg
+image: /images/authors/jadwiga-ostrowska.png
 description: this is meta description
 social:
   facebook: https://www.facebook.com/jadwiga
