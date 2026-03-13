@@ -1,0 +1,29 @@
+---
+import Base from "@/layouts/Base.astro";
+import { markdownify } from "@/lib/utils/textConverter";
+import type { CollectionEntry } from "astro:content";
+import { getEntry, render } from "astro:content";
+
+// 从内容集合中获取 Terms of Service 条目（假设文件位于 src/content/legal/terms-of-service.md 或 .mdx）
+const entry = (await getEntry("legal", "terms-of-service")) as CollectionEntry<"legal">;
+const { Content } = await render(entry);
+const { title, meta_title } = entry.data;
+---
+
+<Base title={title} meta_title={meta_title}>
+  <section class="section">
+    <div class="container">
+      <div class="row">
+        <div class="col-12">
+          <h1 set:html={markdownify(title)} class="h3 mb-8" />
+          <div class="content">
+            <Content />
+          </div>
+          <p class="mt-8">
+            <a href="/contact" class="btn btn-primary text-white py-2">Contact Us</a>
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+</Base>
