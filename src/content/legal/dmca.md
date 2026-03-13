@@ -3,13 +3,13 @@ title: "DMCA Policy"
 meta_title: "DMCA Policy | The Dating Decoder"
 ---
 
-## 1. Introduction
+#### 1. Introduction
 
 The Dating Decoder ("we," "our," or "us") respects the intellectual property rights of others and expects our users to do the same. In accordance with the Digital Millennium Copyright Act (17 U.S.C. §512) ("DMCA"), we will respond promptly to valid notices of alleged copyright infringement.
 
 If you believe that any content on our website infringes your copyright, please notify us through our official contact page.
 
-## 2. Filing a DMCA Takedown Notice
+#### 2. Filing a DMCA Takedown Notice
 
 To submit a DMCA takedown notice, you must provide a written communication that includes the following information:
 
@@ -22,7 +22,7 @@ To submit a DMCA takedown notice, you must provide a written communication that 
 
 Please send your DMCA notice via our **[Contact Page](/contact)**. We will process your request promptly.
 
-## 3. Counter-Notification
+#### 3. Counter-Notification
 
 If you believe that your content was removed in error or misidentification, you may submit a counter-notification. Your counter-notification must include:
 
@@ -32,15 +32,15 @@ If you believe that your content was removed in error or misidentification, you 
 4. A statement that you consent to the jurisdiction of the federal district court for your location (or where The Dating Decoder is located if outside the US), and that you will accept service of process from the person who filed the original DMCA notice.
 5. Your physical or electronic signature.
 
-## 4. Repeat Infringer Policy
+#### 4. Repeat Infringer Policy
 
 We may, in appropriate circumstances and at our sole discretion, terminate or disable access to the website by users who are repeat infringers of copyright.
 
-## 5. Misrepresentation Warning
+#### 5. Misrepresentation Warning
 
 Under Section 512(f) of the DMCA, any person who knowingly materially misrepresents that material is infringing, or that material was removed by mistake, may be subject to liability for damages, including court costs and attorneys' fees.
 
-## 6. Contact Us
+#### 6. Contact Us
 
 If you have any questions about this DMCA Policy, please **[contact us](/contact)**.
 
