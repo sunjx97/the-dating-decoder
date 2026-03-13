@@ -2,7 +2,7 @@
 title: "He Pulled Away: What It Really Means (And What to Do Next)"
 meta_title: "He Pulled Away: What It Really Means | The Dating Decoder"
 description: "He was all in—then suddenly he went cold. Before you spiral into overthinking, read these five honest reasons men pull away and how to handle it with grace."
-date: 2026-03-16T10:00:00Z
+date: 2026-01-11T08:05:50Z
 image: "/images/posts/andrik-langfield--kCQwY1rd6I-unsplash.jpg"
 categories: ["Women Unwrapped"]
 authors: ["Jadwiga Ostrowska"]
