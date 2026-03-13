@@ -3,7 +3,7 @@ title: "5 Signs Your First Date Is Going Really Well"
 meta_title: "5 Signs Your First Date Is Going Really Well | The Dating Decoder"
 description: "Not sure if your date is feeling the spark? Here are five clear signs that your first date is a success—and one red flag to watch out for."
 date: 2026-02-14T10:01:10Z
-image: "/images/posts/5 Signs Your First Date Is Going Really Well/first-date-signs.jpg"
+image: "/images/posts/first-date-signs.jpg"
 categories: ["Dating Decoded"]
 authors: ["Jadwiga Ostrowska"]
 tags: ["first date", "dating tips", "body language", "signs"]
