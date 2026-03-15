@@ -2,7 +2,7 @@
 title: "How to Write a Dating Profile That Actually Gets Matches"
 meta_title: "Dating Profile Tips: Write a Bio That Stands Out | The Dating Decoder"
 description: "Your profile is your first impression. Here's how to write one that attracts the right people—without sounding like everyone else."
-date: 2025-04-26T11:02:10Z
+date: 2025-04-26T11:02:15Z
 image: "/images/posts/dating-profile.jpg"
 categories: ["Dating Decoded"]
 authors: ["Jadwiga Ostrowska"]
